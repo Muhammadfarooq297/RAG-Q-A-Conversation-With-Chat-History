@@ -61,7 +61,7 @@ Contributions are welcome! Feel free to fork the repository, submit pull request
 ## 📧 Contact
 For questions, feedback, or suggestions, feel free to reach out:
 - **Email**: m.farooq.min@gmail.com
-- **GitHub**: [Your GitHub Profile](https://github.com/Muhammadfarooq297)
+- **GitHub**: [Muhammadfarooq297](https://github.com/Muhammadfarooq297)
 
 ---
 

@@ -39,3 +39,33 @@ Interact seamlessly with your PDF documents using a **Conversational Retrieval-A
    ```bash
    git clone https://github.com/your-username/conversational-rag-pdf.git
    cd conversational-rag-pdf
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+3. Run the application:
+   ```bash
+   streamlit run app.py
+---
+
+## 📝 Future Enhancements
+- Introduce multi-language capabilities for a global user base. 🌍
+- Enhance chat interactions with advanced analytics and visualizations. 📊
+
+---
+
+## 🙌 Contributions
+Contributions are welcome! Feel free to fork the repository, submit pull requests, or open issues to help improve this project. Let's collaborate and make it even better! 🤝
+
+---
+
+## 📧 Contact
+For questions, feedback, or suggestions, feel free to reach out:
+- **Email**: m.farooq.min@gmail.com
+- **GitHub**: [Your GitHub Profile](https://github.com/Muhammadfarooq297)
+
+---
+
+✨ Thank you for exploring this project! Dive into a smarter way of interacting with your documents and unleash the power of Conversational RAG. 🚀
+
+
+  
